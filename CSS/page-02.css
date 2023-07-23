@@ -1,0 +1,6 @@
+.main__blocks{grid-template-columns:
+repeat(auto-fit, minmax(160px, 1fr));}
+
+.block__title{font-size: 18px;}
+
+.block{padding: 10px;}
