@@ -81,6 +81,7 @@ body{
     gap: 10px;
     list-style: none;
     color: var(--color-light-01);
+    text-transform: capitalize;
 }
 
 .marked-text {
